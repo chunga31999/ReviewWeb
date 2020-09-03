@@ -1,0 +1,25 @@
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 850px}
+
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+.midnav{
+    background-color: #f1f1f1;
+}
+.jumbotron{
+    background-color: #ff6633;
+}
+.jumbotron h1{
+    color: floralwhite;
+}
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+}
